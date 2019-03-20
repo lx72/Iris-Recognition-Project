@@ -53,7 +53,7 @@ projection process will be implemented by summing the row pixel values and colum
 values. The first for loop will be used to sum the row pixel values for the image and stores in 'sumRows' 
 list. The second for loop will be used to sum the column pixel values for the image and stores in 
 'sumCols' list.
-# Ignore the pixels in boundary of image (width: half of window (30)) for better approximation.
+Ignore the pixels in boundary of image (width: half of window (30)) for better approximation.
 
 2)	Parameter explain:
 The 'img' is the input image array.
